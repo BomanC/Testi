@@ -72,4 +72,28 @@ body{
     text-align: center;
     margin: 0 5px;
     color: whitesmoke;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.wrapper .main_content{
+    width: 100%;
+    margin-left: 200px;
+}
+
+.wrapper .main_content .header{
+    padding: 20px;
+    background-color: white;
+    color: darkgray;
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.wrapper .main_content .info{
+    margin: 20px;
+    color: darkgrey;
+    line-height: 25px;
+}
+
+.wrapper .main_content .info div{
+    margin-bottom: 20px;
 }
