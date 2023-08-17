@@ -12,5 +12,14 @@ body{
 }
 
 .wrapper{
-    
+    display: flex;
+    position: relative;
+}
+
+.wrapper .sidebar{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background-color: azure;
+    padding: 20px 0;
 }
