@@ -42,3 +42,16 @@ body{
     color: darkgray;
     display: block;
 }
+
+.wrapper .sidebar ul li a .fa-regular .fa-solid{
+    width: 25px;
+}
+
+.wrapper .sidebar ul li:hover{
+    background-color: lightgray;
+}
+
+.wrapper .sidebar ul li:hover a{
+    color: whitesmoke;
+}
+
